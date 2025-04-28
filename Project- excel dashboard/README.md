@@ -12,6 +12,8 @@ The dataset covers everything from job titles and salaries to locations and key 
     📂 Final file: 1_Salary_Dashboard.xlsx
 
     🔥 **Built** entirely in Excel, showcasing dashboard design, data analysis, and interactivity.
+    **Luke Barousse**
+
 
 Key Excel Skills Applied
 
